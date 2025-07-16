@@ -1,9 +1,9 @@
-# MODUL 5: RISET AKADEMIK LANJUTAN DENGAN CLAUDE
+# MODUL 5: RISET AKADEMIK LANJUTAN DENGAN GenAI
 
 ## Tujuan Pembelajaran
 
 Setelah mengikuti modul ini, peserta diharapkan mampu:
-- Menguasai teknik systematic literature review dengan bantuan Claude
+- Menguasai teknik systematic literature review dengan bantuan GenAI
 - Melakukan sintesis temuan penelitian dan teori secara efektif
 - Memvalidasi referensi dan sitasi dengan akurasi tinggi
 - Mengidentifikasi gap analysis dalam bidang studi yang mendalam
@@ -14,7 +14,7 @@ Setelah mengikuti modul ini, peserta diharapkan mampu:
 
 ### 1.1 Systematic Literature Review Framework
 
-**Enhanced SLR Process dengan Claude:**
+**Enhanced SLR Process dengan GenAI:**
 ```
 PHASE 1: PROTOCOL DEVELOPMENT
 - Research questions formulation
@@ -59,7 +59,7 @@ PHASE 6: REPORTING & DISSEMINATION
 - Knowledge translation
 ```
 
-### 1.2 Claude-Enhanced SLR Techniques
+### 1.2 GenAI-Enhanced SLR Techniques
 
 **Advanced Search Strategy Development:**
 ```
@@ -811,7 +811,7 @@ Berikan comprehensive innovation assessment dengan implementation strategy.
 
 ## 5. Advanced Research Synthesis Techniques
 
-### 5.1 Meta-Analysis dengan Claude
+### 5.1 Meta-Analysis dengan GenAI
 
 **Comprehensive Meta-Analysis Framework:**
 ```
@@ -2712,7 +2712,7 @@ Berikan comprehensive excellence strategy dengan recognition roadmap.
 6. **Impact strategy** ensures real-world application
 7. **Future preparation** maintains relevance dan leadership
 
-**Claude Integration Benefits:**
+**GenAI Integration Benefits:**
 - Accelerated literature review processes
 - Enhanced synthesis quality
 - Improved accuracy dan consistency
