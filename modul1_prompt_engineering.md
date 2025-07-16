@@ -6,13 +6,13 @@ Setelah mengikuti modul ini, peserta diharapkan mampu:
 - Memahami konsep dan prinsip prompt engineering dalam konteks penulisan akademik
 - Menguasai teknik-teknik prompting yang efektif untuk berbagai kebutuhan penulisan
 - Merancang prompt yang menghasilkan output berkualitas tinggi dan relevan
-- Berinteraksi optimal dengan Claude untuk mendukung proses penulisan buku
+- Berinteraksi optimal dengan GenAI untuk mendukung proses penulisan buku
 
 ## 1. Pengenalan Prompt Engineering
 
 ### Apa itu Prompt Engineering?
 
-Prompt engineering adalah seni dan ilmu merancang instruksi yang efektif untuk AI language model seperti Claude. Dalam konteks penulisan, prompt engineering memungkinkan kita untuk mendapatkan hasil yang lebih akurat, relevan, dan berkualitas tinggi.
+Prompt engineering adalah seni dan ilmu merancang instruksi yang efektif untuk AI language model seperti GenAI. Dalam konteks penulisan, prompt engineering memungkinkan kita untuk mendapatkan hasil yang lebih akurat, relevan, dan berkualitas tinggi.
 
 ### Mengapa Prompt Engineering Penting?
 
@@ -23,11 +23,11 @@ Prompt engineering adalah seni dan ilmu merancang instruksi yang efektif untuk A
 - Mengurangi waktu revisi dan editing
 
 **Analogi Sederhana:**
-Bayangkan Claude sebagai asisten peneliti yang sangat cerdas. Semakin jelas dan spesifik instruksi yang Anda berikan, semakin baik hasil yang akan diperoleh.
+Bayangkan GenAI sebagai asisten peneliti yang sangat cerdas. Semakin jelas dan spesifik instruksi yang Anda berikan, semakin baik hasil yang akan diperoleh.
 
-### Karakteristik Claude untuk Penulisan
+### Karakteristik GenAI untuk Penulisan
 
-**Kelebihan Claude:**
+**Kelebihan GenAI:**
 - Pemahaman konteks yang mendalam
 - Kemampuan analisis dan sintesis yang baik
 - Konsistensi dalam tone dan style
@@ -48,7 +48,7 @@ Bayangkan Claude sebagai asisten peneliti yang sangat cerdas. Semakin jelas dan 
 
 ### 2.1 Context (Konteks)
 
-**Definisi:** Memberikan latar belakang dan setting yang diperlukan Claude untuk memahami situasi.
+**Definisi:** Memberikan latar belakang dan setting yang diperlukan GenAI untuk memahami situasi.
 
 **Contoh Context yang Baik:**
 ```
@@ -64,7 +64,7 @@ Saya mau nulis buku tentang manajemen.
 
 ### 2.2 Task (Tugas)
 
-**Definisi:** Mendefinisikan dengan jelas apa yang diinginkan dari Claude.
+**Definisi:** Mendefinisikan dengan jelas apa yang diinginkan dari GenAI.
 
 **Contoh Task yang Spesifik:**
 ```
@@ -190,7 +190,7 @@ Jelaskan setiap langkah dengan alasan mengapa langkah tersebut penting.
 
 ### 3.4 Role-based Prompting
 
-**Definisi:** Memberikan peran spesifik pada Claude.
+**Definisi:** Memberikan peran spesifik pada GenAI.
 
 **Kapan Digunakan:**
 - Untuk mendapatkan perspektif ahli
@@ -517,7 +517,7 @@ Kembangkan menjadi prompt yang mencakup semua elemen CLEAR dan sesuai untuk buku
 
 **Skenario:** Anda membutuhkan feedback untuk draft bab tentang "Ethical Leadership" yang telah Anda tulis.
 
-**Tugas:** Rancang prompt yang meminta Claude berperan sebagai:
+**Tugas:** Rancang prompt yang meminta GenAI berperan sebagai:
 - Reviewer akademik
 - Target pembaca (mahasiswa)
 - Expert praktisi
@@ -539,7 +539,7 @@ Setelah membuat prompt, periksa:
 - [ ] Apakah constraints sudah jelas?
 
 **Actionability (Dapat Dilakukan):**
-- [ ] Apakah Claude dapat mengeksekusi instruksi?
+- [ ] Apakah GenAI dapat mengeksekusi instruksi?
 - [ ] Apakah scope tugas realistic?
 - [ ] Apakah format output achievable?
 
@@ -654,7 +654,7 @@ Format: Outline berlevel dengan estimasi halaman
 **Productivity Tips:**
 - Batch similar tasks dalam satu session
 - Use role-based prompting untuk different perspectives
-- Leverage Claude's memory dalam conversation
+- Leverage GenAI's memory dalam conversation
 
 ### 9.3 Kolaborasi dengan Kolega
 
@@ -684,7 +684,7 @@ Sebelum melanjutkan ke Modul 2, pastikan Anda:
 - [ ] Memahami struktur prompt yang efektif
 - [ ] Telah mencoba berbagai teknik prompting
 - [ ] Memiliki ide awal topik buku yang ingin ditulis
-- [ ] Familiar dengan conversation flow dengan Claude
+- [ ] Familiar dengan conversation flow dengan GenAI
 
 ### Action Items
 
