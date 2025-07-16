@@ -4,7 +4,7 @@
 
 Setelah mengikuti modul ini, peserta diharapkan mampu:
 - Mengidentifikasi topik buku yang sesuai dengan expertise dan passion
-- Menggunakan teknik brainstorming dengan Claude untuk mengeksplorasi ide-ide kreatif
+- Menggunakan teknik brainstorming dengan GenAI untuk mengeksplorasi ide-ide kreatif
 - Memvalidasi topik berdasarkan kriteria akademik dan komersial
 - Menganalisis target pembaca dan kebutuhan mereka
 - Menyusun konsep dasar buku dengan positioning yang jelas
@@ -91,12 +91,12 @@ Tujuan:
 Analisis dan berikan 5-7 topik potensial dengan evaluasi lengkap.
 ```
 
-## 2. Teknik Brainstorming dengan Claude
+## 2. Teknik Brainstorming dengan GenAI
 
 ### 2.1 Metode Brainstorming yang Efektif
 
 **Mind Mapping Digital:**
-Gunakan Claude untuk membuat mind map konseptual yang mengeksplorasi berbagai dimensi topik.
+Gunakan GenAI untuk membuat mind map konseptual yang mengeksplorasi berbagai dimensi topik.
 
 **Free Association:**
 Teknik mengalirkan ide tanpa filter untuk menemukan koneksi yang tidak terduga.
