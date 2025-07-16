@@ -4,7 +4,7 @@
 
 Setelah mengikuti modul ini, peserta diharapkan mampu:
 - Merancang strategi riset yang komprehensif untuk mendukung penulisan buku
-- Menggunakan Claude secara efektif untuk riset mendalam dan systematic literature review
+- Menggunakan GenAI secara efektif untuk riset mendalam dan systematic literature review
 - Menerapkan teknik fact-checking dan verifikasi informasi yang akurat
 - Mengembangkan sudut pandang unik berdasarkan hasil riset
 - Mengorganisir dan mensintesis informasi dari berbagai sumber
@@ -140,9 +140,9 @@ WHO TO INVOLVE: [Experts dan stakeholders]
 SUCCESS METRICS: [Bagaimana mengukur success]
 ```
 
-## 2. Menggunakan Claude untuk Riset Mendalam
+## 2. Menggunakan GenAI untuk Riset Mendalam
 
-### 2.1 Systematic Literature Review dengan Claude
+### 2.1 Systematic Literature Review dengan GenAI
 
 **Literature Review Process:**
 1. **Scoping**: Define review parameters dan inclusion criteria
@@ -194,7 +194,7 @@ EXPECTED OUTCOMES:
 Berikan detailed protocol untuk systematic review.
 ```
 
-**Thematic Analysis with Claude:**
+**Thematic Analysis with GenAI:**
 ```
 Berperan sebagai qualitative researcher. Bantu saya melakukan thematic 
 analysis untuk literature tentang "[topik]" dengan:
@@ -232,7 +232,7 @@ OUTPUT STRUCTURE:
 Fokus pada actionable insights untuk book writing.
 ```
 
-### 2.3 Research Organization dengan Claude
+### 2.3 Research Organization dengan GenAI
 
 **Information Architecture:**
 ```
@@ -602,7 +602,7 @@ ETHICAL CONSIDERATIONS:
 Berikan detailed interview guide dengan practical tips.
 ```
 
-**Interview Execution dengan Claude:**
+**Interview Execution dengan GenAI:**
 ```
 Berperan sebagai interview coach. Bantu saya mempersiapkan interview 
 dengan [expert name] tentang "[topik]":
@@ -1038,12 +1038,12 @@ COLLABORATION:
 - Zoom untuk virtual meetings
 ```
 
-### 9.2 Claude Integration dalam Research Workflow
+### 9.2 GenAI Integration dalam Research Workflow
 
-**Claude-Powered Research:**
+**GenAI-Powered Research:**
 ```
 Berperan sebagai research workflow consultant. Bantu saya mengintegrasikan 
-Claude ke dalam research workflow untuk maximize efficiency:
+GenAI ke dalam research workflow untuk maximize efficiency:
 
 WORKFLOW STAGES:
 - Literature search dan screening
@@ -1052,7 +1052,7 @@ WORKFLOW STAGES:
 - Writing dan editing
 - Review dan revision
 
-CLAUDE APPLICATIONS:
+GenAI APPLICATIONS:
 - Search strategy development
 - Literature review assistance
 - Data analysis support
@@ -1469,7 +1469,7 @@ Berikan practical guide untuk effective evidence integration.
 
 ## 14. Advanced Research Techniques
 
-### 14.1 Meta-Analysis dengan Claude
+### 14.1 Meta-Analysis dengan GenAI
 
 **Meta-Analysis Framework:**
 ```
@@ -1983,7 +1983,7 @@ Berikan practical technology integration roadmap.
 4. **Ethical considerations** harus integrated throughout
 5. **Technology integration** enhances efficiency dan quality
 
-**Claude Integration:**
+**GenAI Integration:**
 - Powerful tool untuk research planning dan execution
 - Enhances efficiency dalam literature review
 - Supports synthesis dan analysis processes
@@ -2009,7 +2009,7 @@ Berikan practical technology integration roadmap.
 
 **Questions untuk Reflection:**
 1. Apakah research approach Anda sudah systematic dan comprehensive?
-2. Bagaimana Claude membantu enhance research productivity?
+2. Bagaimana GenAI membantu enhance research productivity?
 3. Apa challenges terbesar dalam research process?
 4. Bagaimana Anda ensure research quality dan integrity?
 5. Apa next steps untuk moving dari research ke positioning?
