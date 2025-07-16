@@ -9,13 +9,13 @@
 
 ## Modul 2: Penentuan Topik & Konsep
 
-- Teknik brainstorming dengan Claude untuk mengeksplorasi ide
+- Teknik brainstorming dengan GenAI untuk mengeksplorasi ide
 - Validasi topik dan analisis target pembaca
 - Pembuatan outline dasar
 
 ## Modul 3: Riset & Pengembangan Konten
 
-- Menggunakan Claude untuk riset mendalam
+- Menggunakan GenAI untuk riset mendalam
 - Teknik fact-checking dan verifikasi informasi
 - Pengembangan sudut pandang unik
 
@@ -25,7 +25,7 @@
 - Analisis kebutuhan mahasiswa dan akademisi
 - Positioning unik dalam bidang keilmuan masing-masing
 
-## Modul 5: Riset Akademik Lanjutan dengan Claude
+## Modul 5: Riset Akademik Lanjutan dengan GenAI
 
 - Teknik systematic literature review
 - Sintesis temuan penelitian dan teori
