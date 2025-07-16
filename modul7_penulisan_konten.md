@@ -2296,7 +2296,7 @@ SYMPTOMS:
 
 SOLUTIONS:
 - Break content into smaller chunks
-- Use brainstorming techniques with Claude
+- Use brainstorming techniques with GenAI
 - Start with rough drafts
 - Set realistic goals
 - Use writing prompts
